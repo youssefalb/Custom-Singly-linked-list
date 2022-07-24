@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/youssef albali/CLionProjects/sem 3/d4a5862c-gr12-repo/Project/Exceptions.h
+exception
+-
+
+/mnt/c/Users/youssef albali/CLionProjects/sem 3/d4a5862c-gr12-repo/Project/SingleLinkedList.h
+iostream
+-
+memory
+-
+fstream
+-
+Exceptions.h
+/mnt/c/Users/youssef albali/CLionProjects/sem 3/d4a5862c-gr12-repo/Project/Exceptions.h
+cstring
+-
+sstream
+-
+
+/mnt/c/Users/youssef albali/CLionProjects/sem 3/d4a5862c-gr12-repo/Project/main.cpp
+memory
+-
+algorithm
+-
+utility
+-
+SingleLinkedList.h
+/mnt/c/Users/youssef albali/CLionProjects/sem 3/d4a5862c-gr12-repo/Project/SingleLinkedList.h
+
