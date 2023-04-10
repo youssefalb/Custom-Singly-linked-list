@@ -62,4 +62,5 @@ The container has also been tested using the “Student” class in order to sor
 ![image](https://user-images.githubusercontent.com/72605819/230886186-0d62b97a-a1e2-499a-9736-055f58916f30.png)
 
 And finally, a function that gets the size of the list
+
 ![image](https://user-images.githubusercontent.com/72605819/230886879-29cf6fed-d888-4559-b9dc-409c7f8b940e.png)
